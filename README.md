@@ -1,0 +1,2 @@
+# capital-one-data-challenge
+ Credit Card Fraud Detection using Machine Learning – A project leveraging Logistic Regression, Random Forest, and XGBoost to identify fraudulent transactions with high accuracy. Features advanced data preprocessing, class imbalance handling (SMOTE), and model evaluation using precision, recall, and ROC-AUC. Optimized for real-world fraud detection with minimal false positives.
